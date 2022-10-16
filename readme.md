@@ -9,7 +9,7 @@ cd xxl_job_weak_passwd
 
 ## 使用
 
-因为本工具是由了pocsuite3框架的开发规范编写的poc
+因为本工具是根据pocsuite3框架的开发规范编写的poc
 
 在使用前请下载pocsuite3
 
